@@ -2,7 +2,7 @@ var playlist = {
   Drake: "A Little Bit"
 };
 
-function updatePlaylist(playlist, artist, song){
+function updatePlaylist(playlist, artistName, songTitle){
   playlist.DojaCat = song;
 
   return playlist;
