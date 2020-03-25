@@ -2,6 +2,6 @@ var playlist = {
   Drake: "A Little Bit"
 };
 
-function updatePlaylist(){
-  
+function updatePlaylist(playlist, artist, song){
+
 }
