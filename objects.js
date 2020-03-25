@@ -3,7 +3,7 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artist, song){
-  playlist.DojaCat = "Won't Bite";
+  playlist.DojaCat = song;
 
   return playlist;
 }
